@@ -1,0 +1,1 @@
+(function(b,a){"function"===typeof define&&define.amd?define([],a):"object"===typeof exports?module.exports=a():b.stddev=a()})(this,function(){return $1});

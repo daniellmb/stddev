@@ -1,0 +1,23 @@
+{
+  "name": "stddev",
+  "version": "0.1.0",
+  "main": "stddev.js",
+  "ignore": [
+    ".editorconfig",
+    ".gitattributes",
+    ".gitignore",
+    ".jshintrc",
+    ".npmignore",
+    ".travis.yml",
+    ".umd",
+    "gulpfile.js",
+    "npm-shrinkwrap.json",
+    "package.json"
+  ],
+  "dependencies": {
+
+  },
+  "devDependencies": {
+
+  }
+}
